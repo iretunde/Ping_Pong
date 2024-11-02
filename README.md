@@ -13,8 +13,6 @@
 
 3. How to Play
 
-Start the game by running `main.py`.
-
 **Player 1 Controls:**
 
 - Move Up: `Q`
