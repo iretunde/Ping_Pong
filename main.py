@@ -60,8 +60,4 @@ while game_is_on:
         b.bounce_x()
         scoreboard.update_p1_score()
 
-
-
-
-
 screen.exitonclick()
